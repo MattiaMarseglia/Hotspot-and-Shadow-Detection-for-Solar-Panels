@@ -19,5 +19,3 @@ Solar energy production is influenced by various factors, including shadows or h
 - **Image Processing**: Images acquired by the fixed camera are processed to extract relevant information about the condition of the panels.
 - **Data Analysis with pvlib**: Utilizing the pvlib library to analyze the characteristics of solar panels and optimize energy production.
 - **Daytime Operation**: The system is designed to operate during the day, capturing images and providing real-time insights.
-
-Feel free to customize the README.md file based on your project's specific details and structure. Additionally, you might want to include information about project structure, configuration settings, and any additional documentation that can help users understand and contribute to your project.
