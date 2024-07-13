@@ -1,4 +1,4 @@
-# Faults and Shadow Detection for Solar Panels
+# Faults and Shadow Detection for Solar Panels (pvlib, OpenCV)
 
 <div align="center">
     <img src="Picture1.jpg" alt=Solar Panel>
