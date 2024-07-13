@@ -1,5 +1,8 @@
-
 # Faults and Shadow Detection for Solar Panels
+
+<div align="center">
+    <img src="Picture1.jpg" alt=Solar Panel>
+</div>
 
 ## Overview
 The aim of this project is to develop a system to detect criticalities in the operation of solar panels such as faults or shaded areas, through the use of basic computer vision techniques, and to predict the operability of the panels under these conditions. The developed system processes images acquired during the day by a fixed camera, leveraging tools such as pvlib to understand the characteristic IV PV curves of panels in real-time conditions, pursuing the ultimate goal of maximising energy production. 
